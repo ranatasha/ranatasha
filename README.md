@@ -11,21 +11,16 @@ I enjoy working with TypeScript for its strong typing system, love exploring gen
 - **Tools:** Git, Docker, Vite, Webpack
 - **Practices:** SPA development, responsive design (Flexbox, Grid), code optimization, and refactoring
 
----
-
 ### 💼 Professional Experience
+- **Over 2 years** of commercial development experience
 - **Frontend Development:** Developing scalable and dynamic web applications using Vue.js ecosystem, SPA development
 - **Code Reviews:** Extensive experience in improving code quality and mentoring team members
 - **Team Collaboration:** Working in agile teams to deliver high-quality software
 
----
-
 ### 🌱 What I’m Learning
 - Enhancing skills in SSR with Nuxt.js and deepening knowledge of DevOps tools
 
----
-
-### 📫 Contact Me
+### 📫 Let's connect
 - **Telegram:** [@ra_natasha](https://t.me/ra_natasha)
 
 ---
