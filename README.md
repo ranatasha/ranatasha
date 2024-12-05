@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** TypeScript, JavaScript (ES6+), Vue.js (Vue 3, Nuxt.js, Pinia/Vuex, Axios, Vue-Router), SCSS / SASS, HTML, CSS, 
+- **Frontend:** TypeScript, JavaScript (ES6+), Vue.js (Vue 3, Nuxt.js, Pinia/Vuex, Axios, Vue-Router), SCSS / SASS, HTML, CSS 
 - **Backend:** Node.js (Express.js)
 - **Tools:** Git, Docker, Vite, Webpack
 - **Practices:** SPA development, responsive design (Flexbox, Grid), code optimization, and refactoring
