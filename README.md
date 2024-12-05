@@ -16,7 +16,7 @@
 - **Code Reviews:** Extensive experience in improving code quality and mentoring team members
 - **Team Collaboration:** Working in agile teams to deliver high-quality software
 
-### 🏆 Notable Projects
+### 🏆 Projects
 - **bushe x Kotelov Hackathon (June 2023), 1st place**: Developed an app for couriers and a control system for managers in just 2 days. The project helped optimize logistics processes. <br>
 [Decision on GitHub](https://github.com/flint3s/bushe)
 
