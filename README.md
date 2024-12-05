@@ -1,7 +1,7 @@
-## 👩‍💻 Natasha | Frontend Developer (Vue.js)
+## 👩‍💻 Natasha | Frontend Developer
 
-Passionate about creating efficient and user-friendly web applications with modern technologies. <br>
-
+ Passionate about creating efficient and user-friendly web applications with modern technologies.
+ 
 ---
 
 ### 🛠️ Tech Stack
