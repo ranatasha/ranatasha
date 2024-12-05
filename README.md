@@ -1,7 +1,6 @@
 ## 👩‍💻 Natasha | Frontend Developer (Vue.js)
 
 Passionate about creating efficient and user-friendly web applications with modern technologies. <br>
-I enjoy working with TypeScript for its strong typing system, love exploring generics, and take pride in writing clean, maintainable code.
 
 ---
 
