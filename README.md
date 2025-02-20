@@ -17,7 +17,7 @@
 - **Team Collaboration:** Working in agile teams to deliver high-quality software
 
 ### 🏆 Hackathons
-- **bushe x Kotelov Hackathon (June 2023), 1st place**: Developed an app for couriers and a control system for managers in just 2 days. The project helped optimize logistics processes. <br>
+- **bushe x Kotelov Hackathon (June 2023), the Winner (1st place) **: Developed an app for couriers and a control system for managers in just 2 days. The project helped optimize logistics processes. <br>
 [Decision on GitHub](https://github.com/flint3s/bushe)
 
 ### 🌱 What I’m Learning
