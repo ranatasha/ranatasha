@@ -11,7 +11,7 @@
 - **Practices:** SPA development, responsive design (Flexbox, Grid), code optimization, and refactoring
 
 ### 💼 Professional Experience
-- **Over 2 years** of commercial development experience
+- **Over 2.5 years** of commercial development experience
 - **Frontend Development:** Developing scalable and dynamic web applications using Vue.js ecosystem, SPA development
 - **Code Reviews:** Extensive experience in improving code quality and mentoring team members
 - **Team Collaboration:** Working in agile teams to deliver high-quality software
